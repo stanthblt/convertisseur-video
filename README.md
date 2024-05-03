@@ -9,7 +9,7 @@ Ce dépôt contient des scripts Python 🐍 pour convertir des fichiers vidéo e
 
 ## Prérequis 📋
 
-Assurez-vous d'avoir Python installé sur votre système. Ce projet a été testé avec Python 3.8. Vous aurez également besoin de bibliothèques spécifiques, listées dans le fichier `requirements.txt`.
+Assurez-vous d'avoir Python installé sur votre système. Ce projet a été testé avec Python 3.12.3
 
 ## Installation 🔧
 
