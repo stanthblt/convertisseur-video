@@ -17,13 +17,8 @@ Assurez-vous d'avoir Python installé sur votre système. Ce projet a été test
 
 1.  Clonez le dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/votre-username/convertisseur-video.git
+    git clone https://github.com/stanthblt/convertisseur-video.git
     ```
-2.  Installez les dépendances nécessaires :
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ### Utilisation des fichiers compilés 📦
 
 Pour ceux qui préfèrent ne pas utiliser le code source, les fichiers exécutables compilés sont disponibles dans l'onglet [Releases](https://github.com/stanthblt/convertisseur-video/releases) du dépôt. Téléchargez la version qui correspond à votre système, et vous êtes prêt à commencer !
